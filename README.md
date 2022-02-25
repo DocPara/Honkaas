@@ -1,5 +1,6 @@
 ## X-URL-Uploader (Bot)
 ---
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Skystapper/anewurlbot)
 
 Telegram RoBot to Upload Links.
 
